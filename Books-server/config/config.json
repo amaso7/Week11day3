@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "xjtxiysd",
+      "password":"T6MKirYT0Oy4mW-xr1ddqQdy_EFLZXj3",
+      "database": "xjtxiysd",
+      "host": "chunee.db.elephantsql.com",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "xjtxiysd",
+      "password": "T6MKirYT0Oy4mW-xr1ddqQdy_EFLZXj3",
+      "database": "xjtxiysd",
+      "host": "chunee.db.elephantsql.com",
+      "dialect": "postgres"
+    }
+  }
